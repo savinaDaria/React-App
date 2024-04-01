@@ -1,6 +1,9 @@
 # React-App
 Personal Project Management Tool
 
+# Deployed version of the App on render.com
+Fully working app(Backend enabled) can be found here: https://react-app-tlyb.onrender.com/
+
 # Run app locally
 >Run at the root:
 
